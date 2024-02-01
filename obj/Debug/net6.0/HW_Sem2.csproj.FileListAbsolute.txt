@@ -1,0 +1,15 @@
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.csproj.AssemblyReference.cache
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.AssemblyInfoInputs.cache
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.AssemblyInfo.cs
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.csproj.CoreCompileInputs.cache
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/bin/Debug/net6.0/HW_Sem2
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/bin/Debug/net6.0/HW_Sem2.deps.json
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/bin/Debug/net6.0/HW_Sem2.runtimeconfig.json
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/bin/Debug/net6.0/HW_Sem2.dll
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/bin/Debug/net6.0/HW_Sem2.pdb
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.dll
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/refint/HW_Sem2.dll
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.pdb
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/HW_Sem2.genruntimeconfig.cache
+/Users/igormanukan/Desktop/C#25.12.23/Homeworks/HW_Sem2/obj/Debug/net6.0/ref/HW_Sem2.dll
